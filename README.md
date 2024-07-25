@@ -1,2 +1,4 @@
 # ASCII-Cows
-ASCII cow wallpapers. jjst because
+ASCII cow wallpapers. just because
+
+uh, moo?
